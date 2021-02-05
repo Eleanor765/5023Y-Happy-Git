@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Eleanor Glynne-Jones"
 output: html_document
 ---
 
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
-#### SHARKS!!!
+#### SHARKS!!!  
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
 
@@ -57,7 +57,16 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
-###
+#### Baby Yoda - Grogu 
+
+![Photo](Grogu.jpg)
+
+##### Baby Yoda Fun Facts:
+
+- Also known as “The Child”
+- Likes unfertilised frog eggs & control knobs
+- Strong with the force
+
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
